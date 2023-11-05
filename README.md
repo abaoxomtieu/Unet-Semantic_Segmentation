@@ -12,6 +12,6 @@ cdUnet-Semantic_Segmentation
 python Test.py
 ```
 
-Output: 
+Output
 
-![img]("img/Screenshot 2023-11-05 093655.png")
+![Alt Text](img/OutPut.png)
