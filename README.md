@@ -14,4 +14,4 @@ python Test.py
 
 Output
 
-![Alt Text](img/OutPut.png)
+![img]("img/Screenshot 2023-11-05 093655.png")
