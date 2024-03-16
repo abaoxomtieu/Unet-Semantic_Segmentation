@@ -4,7 +4,7 @@ Dicescore: 66%
 ## Install: ##
 ```bash
 git clone https://github.com/hotonbao/Unet-Semantic_Segmentation.git
-cdUnet-Semantic_Segmentation
+cd Unet-Semantic_Segmentation
 ```
 ## Test: ##
 
